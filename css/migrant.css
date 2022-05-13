@@ -1,0 +1,19 @@
+.main#about {
+    width: 100%;
+    min-height: 93vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.title-page {
+    text-align: center;
+}
+
+.accordion-item {
+    background-color: red;
+}
