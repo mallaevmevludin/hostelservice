@@ -1,0 +1,26 @@
+.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+
+}
+
+.container#teams {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.col-sm-3 {
+    padding-top: 30px;
+}
+.title-page {
+    margin-top: 30px;
+}
+
+h2 {
+    color: black;
+}
